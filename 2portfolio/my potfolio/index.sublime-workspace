@@ -1,0 +1,430 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"p",
+				"png"
+			],
+			[
+				"n",
+				"transparent\tbackground-color"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"b",
+				"border\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"anim",
+				"animation-delay\tproperty"
+			],
+			[
+				"ani",
+				"animation-name\tproperty"
+			],
+			[
+				"a",
+				"animation\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"size",
+				"font-size\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"an",
+				"animation-duration\tproperty"
+			],
+			[
+				"animat",
+				"animation-timing-function\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"f",
+				"form\tTag"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"onmoo",
+				"onmouseover\tAttr"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"text-",
+				"text-decoration\tproperty"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"m",
+				"margin\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"backgr",
+				"background-image\tproperty"
+			],
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"t",
+				"transparent\tbackground"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/DELL/Downloads/Mini Profile Free Website Template - Free-CSS.com/templatemo_530_mini_profile/js/parallax.min.js",
+		"/C/Users/DELL/OneDrive/Desktop/acc.html",
+		"/D/portfolio/my potfolio/assets/css/style.css",
+		"/C/Users/DELL/Downloads/Mini Profile Free Website Template - Free-CSS.com/templatemo_530_mini_profile/index.html",
+		"/C/Users/DELL/Downloads/Mini Profile Free Website Template - Free-CSS.com/templatemo_530_mini_profile/css/templatemo-style.css",
+		"/C/Users/DELL/OneDrive/Desktop/rating pro/style.css",
+		"/C/Users/DELL/Downloads/Edgecut Free Website Template - Free-CSS.com/edgecut-html/index.html",
+		"/C/Users/DELL/OneDrive/Desktop/rating pro/script.js",
+		"/C/Users/DELL/Downloads/Edgecut Free Website Template - Free-CSS.com/edgecut-html/js/rating.js",
+		"/C/Users/DELL/OneDrive/Desktop/rating pro/index.html",
+		"/C/Users/DELL/Downloads/Edgecut Free Website Template - Free-CSS.com/edgecut-html/css/rating.css",
+		"/C/Users/DELL/OneDrive/Desktop/desk/rating.html",
+		"/C/Users/DELL/OneDrive/Desktop/desk/form.html",
+		"/C/Users/DELL/Downloads/Edgecut Free Website Template - Free-CSS.com/edgecut-html/blog.html",
+		"/C/Users/DELL/OneDrive/Desktop/glink.html",
+		"/C/Users/DELL/OneDrive/Desktop/desk/web3.html",
+		"/C/Users/DELL/Downloads/Edgecut Free Website Template - Free-CSS.com/edgecut-html/css/animation.css",
+		"/C/Users/DELL/OneDrive/Desktop/desk/animation web.html",
+		"/C/Users/DELL/Downloads/Edgecut Free Website Template - Free-CSS.com/edgecut-html/animation.css/animation.css",
+		"/C/Users/DELL/Downloads/Edgecut Free Website Template - Free-CSS.com/edgecut-html/animation.css/animation.html",
+		"/C/Users/DELL/OneDrive/Desktop/desk/web2.html",
+		"/D/desk/website.html",
+		"/C/Users/DELL/Downloads/Edgecut Free Website Template - Free-CSS.com/edgecut-html/about.html",
+		"/C/Users/DELL/Downloads/Edgecut Free Website Template - Free-CSS.com/edgecut-html/js/jquery-3.4.1.min.js",
+		"/C/Users/DELL/OneDrive/Desktop/desk/orint.html",
+		"/C/Users/DELL/OneDrive/Desktop/desk/ani.html",
+		"/C/Users/DELL/OneDrive/Desktop/web3.html",
+		"/C/Users/DELL/OneDrive/Desktop/web2.html",
+		"/C/Users/DELL/OneDrive/Desktop/website.html",
+		"/C/Users/DELL/OneDrive/Desktop/desk/restaurant.html",
+		"/C/Users/DELL/OneDrive/Desktop/desk/style.html",
+		"/C/Users/DELL/OneDrive/Desktop/desk/nav.html",
+		"/C/Users/DELL/OneDrive/Desktop/desk/web.html",
+		"/C/Users/DELL/Downloads/Edgecut Free Website Template - Free-CSS.com.zip",
+		"/C/Users/DELL/OneDrive/Desktop/ani.html",
+		"/C/Users/DELL/OneDrive/Desktop/style.html",
+		"/C/Users/DELL/OneDrive/Desktop/desk/online shop/js.html",
+		"/C/Users/DELL/OneDrive/Desktop/desk/online shop/index.html",
+		"/C/Users/DELL/OneDrive/Desktop/color.html",
+		"/C/Users/DELL/OneDrive/Desktop/desk/tw.png",
+		"/C/Users/DELL/OneDrive/Desktop/html",
+		"/C/Users/DELL/OneDrive/Desktop/animate.html",
+		"/C/Users/DELL/OneDrive/Desktop/desk/login.html",
+		"/C/Users/DELL/OneDrive/Desktop/js.html",
+		"/C/Users/DELL/OneDrive/Desktop/form.html",
+		"/C/Users/DELL/OneDrive/Desktop/car.html",
+		"/C/Users/DELL/OneDrive/Desktop/3D.zip",
+		"/C/Users/DELL/OneDrive/Desktop/car",
+		"/C/Users/DELL/OneDrive/Desktop/array.html",
+		"/C/Users/DELL/Downloads/html-form-to-google-sheet-master/html-form-to-google-sheet-master/appscript.js",
+		"/C/Users/DELL/OneDrive/Desktop/data.html",
+		"/C/Users/DELL/Downloads/html-form-to-google-sheet-master/html-form-to-google-sheet-master/example-form.html",
+		"/C/Users/DELL/Downloads/bodoni-moda.zip",
+		"/C/Users/DELL/Downloads/Clever chefs _ Explore Page - LIVE.html",
+		"/C/Users/DELL/Downloads/Giftos Free Website Template - Free-CSS.com.zip",
+		"/C/Users/DELL/Downloads/Eflyer Free Website Template - Free-CSS.com (1).zip",
+		"/C/Users/DELL/OneDrive/Desktop/online shop/index.html",
+		"/C/Users/DELL/OneDrive/Desktop/script.js",
+		"/C/Users/DELL/OneDrive/Desktop/login.html",
+		"/C/Users/DELL/Downloads/Eflyer Free Website Template - Free-CSS.com (1)/html/index.html",
+		"/C/Users/DELL/OneDrive/Desktop/online shop/css/style.css",
+		"/C/Users/DELL/OneDrive/Desktop/online shop/css/bootstrap.min.css.map",
+		"/C/Users/DELL/OneDrive/Desktop/online shop/css/bootstrap.min.css",
+		"/C/Users/DELL/OneDrive/Desktop/web.html",
+		"/C/Users/DELL/OneDrive/Desktop/fav.html",
+		"/C/Users/DELL/OneDrive/Desktop/nav.html",
+		"/C/Users/DELL/OneDrive/Desktop/header.html",
+		"/C/Users/DELL/OneDrive/Desktop/display.html",
+		"/C/Users/DELL/OneDrive/Desktop/table.html",
+		"/C/Users/DELL/OneDrive/Desktop/gallery.html",
+		"/C/Users/DELL/OneDrive/Desktop/header",
+		"/C/Users/DELL/OneDrive/Desktop/html.html",
+		"/C/Users/DELL/OneDrive/Desktop/test.html",
+		"/C/Users/DELL/OneDrive/Desktop/school"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
